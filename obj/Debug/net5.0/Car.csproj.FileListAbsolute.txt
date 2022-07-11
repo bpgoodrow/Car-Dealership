@@ -1,0 +1,15 @@
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/obj/Debug/net5.0/Car.csproj.AssemblyReference.cache
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/obj/Debug/net5.0/Car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/obj/Debug/net5.0/Car.AssemblyInfoInputs.cache
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/obj/Debug/net5.0/Car.AssemblyInfo.cs
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/obj/Debug/net5.0/Car.csproj.CoreCompileInputs.cache
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/bin/Debug/net5.0/Car.deps.json
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/bin/Debug/net5.0/Car.runtimeconfig.json
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/bin/Debug/net5.0/Car.runtimeconfig.dev.json
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/bin/Debug/net5.0/Car.dll
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/bin/Debug/net5.0/ref/Car.dll
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/bin/Debug/net5.0/Car.pdb
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/obj/Debug/net5.0/Car.dll
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/obj/Debug/net5.0/ref/Car.dll
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/obj/Debug/net5.0/Car.pdb
+/Users/benjamingoodrow/Desktop/C#/week1/car-dealership/obj/Debug/net5.0/Car.genruntimeconfig.cache
